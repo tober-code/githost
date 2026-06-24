@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "homepage": "https://github.io",
+    "homepage": "https://tober-code.github.io",
     "dev": "vite",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
