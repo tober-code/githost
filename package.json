@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "homepage": "https://tober-code.github.io",
     "dev": "vite",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
@@ -12,6 +11,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "homepage": "https://tober-code.github.io",
   "dependencies": {
     "react": "^19.2.7",
     "react-dom": "^19.2.7"
